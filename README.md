@@ -1,15 +1,7 @@
 # scrabblizer
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
-
-## Usage
-
-FIXME
-
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Relevance, Inc.
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the Eclipse Public License.
